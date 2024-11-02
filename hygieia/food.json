@@ -1,0 +1,189 @@
+[
+    {
+        "name":"Chicken Breast",
+        
+        "Calories": 165,
+        "Protein": 31,
+        "Carbohydrate": 0,
+        "Fiber": 0,
+        "Fat": 3.6
+    },
+    {
+        "name":"Salmon",
+        "imageUrl":"",
+        "Calories": 206,
+        "Protein": 25,
+        "Carbohydrate": 0,
+        "Fiber": 0,
+        "Fat": 10.5
+    },
+    {
+        "name":"Brown Rice",
+        "imageUrl":"",
+        "Calories": 111,
+        "Protein": 2.6,
+        "Carbohydrate": 23.5,
+        "Fiber": 1.8,
+        "Fat": 0.9
+    },
+    {
+        "name":"Broccoli",
+        "imageUrl":"",
+        "Calories": 34,
+        "Protein": 2.8,
+        "Carbohydrate": 6.6,
+        "Fiber": 2.6,
+        "Fat": 0.4
+    },
+    {
+        "name":"Banana",
+        "imageUrl":"",
+        "Calories": 89,
+        "Protein": 1.1,
+        "Carbohydrate": 22.8,
+        "Fiber": 2.6,
+        "Fat": 0.3
+    },
+    {
+        "name":"Boiled Egg",
+        "imageUrl":"",
+        "Calories": 155,
+        "Protein": 12.6,
+        "Carbohydrate": 1.1,
+        "Fiber": 0,
+        "Fat": 10.6
+    },
+    {
+        "name":"Apple",
+        "imageUrl":"",
+        "Calories": 52,
+        "Protein": 0.3,
+        "Carbohydrate": 13.8,
+        "Fiber": 2.4,
+        "Fat": 0.2 
+    },
+    {
+        "name":"White Rice",
+        "imageUrl":"",
+        "Calories": 130,
+        "Protein": 2.7,
+        "Carbohydrate": 28.2,
+        "Fiber": 0.4,
+        "Fat": 0.3
+    },
+    {
+        "name":"Spinach",
+        "imageUrl":"",
+        "Calories": 23,
+        "Protein": 2.9,
+        "Carbohydrate": 3.6,
+        "Fiber": 2.2,
+        "Fat": 0.4
+    },
+    {
+        "name":"Milk",
+        "imageUrl":"",
+        "Calories": 61,
+        "Protein": 3.2,
+        "Carbohydrate": 4.8,
+        "Fiber": 0,
+        "Fat": 3.3 
+    },
+    {
+        "name":"Oatmeal",
+        "imageUrl":"",
+        "Calories": 71,
+        "Protein": 2.5,
+        "Carbohydrate": 12,
+        "Fiber": 1.7,
+        "Fat": 1.5
+    },
+    {
+        "name":"Pasta",
+        "imageUrl":"",
+        "Calories": 131,
+        "Protein": 5.2,
+        "Carbohydrate": 25.0,
+        "Fiber": 1.3,
+        "Fat": 1.1
+    },
+    {
+        "name":"Idli",
+        "imageUrl":"",
+        "Calories": 39,
+        "Protein": 1.4,
+        "Carbohydrate": 8.1,
+        "Fiber": 0.6,
+        "Fat": 0.2
+    },
+    {
+        "name":"Dosa",
+        "imageUrl":"",
+        "Calories": 133,
+        "Protein": 2.7,
+        "Carbohydrate": 25,
+        "Fiber": 1.4,
+        "Fat": 2.1
+
+    },
+    {
+        "name":"Sambhar",
+        "imageUrl":"",
+        "Calories": 80,
+        "Protein": 2.6,
+        "Carbohydrate": 14.4,
+        "Fiber": 3.2,
+        "Fat": 1.6
+
+    },
+    {
+        "name":"Rasam",
+        "imageUrl":"",
+        "Calories": 26,
+        "Protein": 1.1,
+        "Carbohydrate": 4.6,
+        "Fiber": 0.6,
+        "Fat": 0.3
+
+    },
+    {
+        "name":"Pongal",
+        "imageUrl":"",
+        "Calories": 117,
+        "Protein": 4.1,
+        "Carbohydrate": 20.9,
+        "Fiber": 1.4,
+        "Fat": 1.6
+
+    },
+    {
+        "name":"Vada",
+        "imageUrl":"",
+        "Calories": 200,
+        "Protein": 3.9,
+        "Carbohydrate": 26.1,
+        "Fiber": 2.6,
+        "Fat": 9.7
+
+    },
+    {
+        "name":"Biryani (Vegetable)",
+        "imageUrl":"",
+        "Calories": 185,
+        "Protein": 3.3,
+        "Carbohydrate": 28.3,
+        "Fiber": 1.1,
+        "Fat": 6.7
+
+    },
+    {
+        "name":"Kothu Parotta",
+        "imageUrl":"",
+        "Calories": 332,
+        "Protein": 8.4,
+        "Carbohydrate": 45.6,
+        "Fiber": 3.6,
+        "Fat": 13.5
+
+    }
+]
