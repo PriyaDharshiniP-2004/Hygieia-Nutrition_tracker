@@ -1,28 +1,26 @@
-"# Hygieia-Nutrition_tracker" 
+# Hygieia-Nutrition_tracker
  Hygieia is a nutrition-tracking web application built with a React frontend (`nutrify-frontend`), Node.js backend (`hygieia`), and MongoDB as the database. The app enables users to search for food items, view detailed nutritional information, and track daily intake.
 
-#Table of Contents
+# Table of Contents
 
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [License](#license)
-
-#Features
+  
+# Features
 
 - Food Search: Search for various food items and get nutritional details.
 - Nutrition Tracking: Add food items to daily logs and track nutrient intake.
 - Date Selection: View nutritional intake for specific dates.
 - User Authentication: Secure login and logout functionality.
 
-#Installation
-
-#Prerequisites
+# Installation
+# Prerequisites
 
 - [Node.js](https://nodejs.org/) (v14 or above)
 - [MongoDB](https://www.mongodb.com/) (Local or MongoDB Atlas instance)
 
-#Steps
+# Steps
 
 1. Clone the Repository
    
@@ -55,16 +53,13 @@ Backend: In the hygieia directory, start the backend:
 
 5. Access the App Open your browser and go to http://localhost:3000 to use Nutrify.
 
-#Usage
+# Usage
 
   Log in: Authenticate using your credentials.
   Search Food: Enter a food item name to retrieve nutrition details.
   Track Food: Add selected food items to the daily log.
   View by Date: Go to the Diet section, select a date, and view your intake for that day.
 
-#License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
   This README is aligned with the folder names (`nutrify-frontend` for frontend and `hygieia` for backend) and includes detailed installation, usage, and troubleshooting sections to get your app running smoothly. Let me know if further customization is needed!
 
